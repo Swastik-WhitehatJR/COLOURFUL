@@ -113,7 +113,7 @@ p {
     width: 26px;
     height: 26px;
     display: inline-block;
-    background-image: url("../images/coolhue-sprite.svg");
+    background-image: url("../images/colourful-sprite.svg");
     background-repeat: no-repeat;
     cursor: pointer;
     vertical-align: middle;
@@ -214,7 +214,7 @@ p {
     right: 0px;
     bottom: 0px;
     background-color: #FFFFFF;
-    background-image: url("../images/coolhue-sprite.svg");
+    background-image: url("../images/colourful-sprite.svg");
     background-repeat: no-repeat;
     background-position: 0px -25px;
     box-shadow: 0px 12px 27px 3px rgba(0, 0, 0, 0.15), 0px 6px 4px 0px rgba(0, 0, 0, 0.05);
@@ -270,17 +270,17 @@ p {
 }
 
 .ch-distro-type:nth-child(1):before {
-    background-image: url("../images/coolhue-sprite.svg");
+    background-image: url("../images/colourful-sprite.svg");
     background-position: 0px -77px;
 }
 
 .ch-distro-type:nth-child(2):before {
-    background-image: url("../images/coolhue-sprite.svg");
+    background-image: url("../images/colourful-sprite.svg");
     background-position: -26px -77px;
 }
 
 .ch-distro-type:nth-child(3):before {
-    background-image: url("../images/coolhue-sprite.svg");
+    background-image: url("../images/colourful-sprite.svg");
     background-position: -52px -77px;
 }
 
